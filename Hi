@@ -11,5 +11,5 @@ http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/mono.m3u8
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1,SPORTS
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1,POGO
+#EXTINF:-1,J
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
