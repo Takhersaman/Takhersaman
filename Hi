@@ -13,3 +13,5 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1,J
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
+#EXTINF:-1,K
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
