@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,
+http://87.117.234.51:8554/pose/pitaaratv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIyIDEwOjE4OjIzIEFNJmhhc2hfdmFsdWU9VVZUWWpNR1BpOXJyazJvdXpXcVYrdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:0,
+http://87.117.234.51:8554/pose/pitaaratv/playlist.m3u
