@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1
 http://31.172.87.51:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:Ten1
+#EXTINF:-2
 https://sony247channels.akamaized.net/hls/live/2011739/TEN1SD/master.m3u8?hdnea=st=1661935548~exp=1661935848~acl=*~id=2d62e515-4a7f-4af0-ac78-0c6f03496c2b~hmac=21043f5d61a8d04a9fbfbc6a69eef3315f7e5c6e29827af3e2f7253fa397f6dc&originpath=/linear/hls/pb/event/4_pnLi2QTe6bRGvvahRbfg/stream/35f8d63c-6105-4d32-8440-1bebeeae6d56:SIN2/master.m3u8
-#EXTINF:Ten1hd
+#EXTINF:-3
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
